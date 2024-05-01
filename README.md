@@ -5,18 +5,18 @@
 <h1 align="center">Hi 👋, I'm Azmat Ali</h1>
 <h3 align="center">Senior Software Engineer</h3>
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Adeel" height="30" width="40" /></a>
- <a href = "mailto: awais.aman10@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/azmat-ali-ch500" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linked in" height="30" width="40" /></a>
+ <a href = "mailto: mian.azmatali.9@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
 
 <p align="center">
   <em>
     This is ME, Azmat Ali<br>
-    A budding <b>Full-Stack Software Engineer</b> <img src="Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>Full-Stack Software Engineer</b> 👨🏻‍💻 and a <b>Competitive Programming Enthusiast</b>&nbsp,<br>who is <b>obsessed</b>
     with a passion for creating <b>dynamic</b> and <b>user-friendly</b> web applications. Adept at building robust and scalable solutions that deliver exceptional user experiences. <b>improving</b> himself and wants a <b>platform</b> to
-    <b>grow</b> <img src="Rocket.gif" width="18px">and
-    <b>excel</b> <img src="Medal.gif" width="20px">&nbsp.
+    <b>grow</b> 🚀 and
+    <b>excel</b> 🎖️&nbsp.
   </em>
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
@@ -92,7 +92,7 @@
 
 ### <u> Mobile App Development Technologies & Tools: </u>
 
-<span><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic logo" title="Ionic" height="25" /></span>
+<span><img src="https://img.shields.io/badge/React%20Native-8A2BE2" alt="Ionic logo" title="Ionic" height="25" /></span>
 &nbsp;
 
 ### <u> Version Control and Tools:</u>
