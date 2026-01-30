@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="200"/>
+  <img src="[https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi 👋, I'm Azmat Ali</h1>
